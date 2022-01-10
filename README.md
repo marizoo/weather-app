@@ -1,3 +1,3 @@
-a WHAT website created with React + styled component
-+ using WHAT...
-![Screenshot of the site](./screenshots/Agensy-website-800.png)
+a simple weather app created with React + sass
+practise api 
+![Screenshot of the site](./screenshots/41.weather-app-800.png)
